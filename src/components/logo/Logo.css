@@ -1,0 +1,9 @@
+#tilt {
+	background: linear-gradient(89deg, #759438 0%, #EC8932 100%);
+}
+
+img {
+	height: 100px;
+	width: 100px;
+	padding-top: 5px;
+}
